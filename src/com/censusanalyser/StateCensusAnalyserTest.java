@@ -7,10 +7,10 @@ import org.junit.rules.ExpectedException;
 import java.io.IOException;
 
 public class StateCensusAnalyserTest {
-    public static final String CSV_FILE_INDIA_STATE_CENSUS = "C:\\Users\\Nishi\\IdeaProjects\\IndianCensusAnalyser\\src\\main\\resources\\IndiaStateCensusData.csv";
+    public static final String CSV_FILE_INDIA_STATE_CENSUS = "C:\\Users\\VINAYAK\\IdeaProjects\\IndianCensusAnalyser\\src\\main\\resources\\IndiaStateCensusData.csv";
     public static final String INCORRECT_FILE = "./incorrectSample.txt";
-    public static final String INCORRECT_CSV_FILE = "C:\\Users\\Nishi\\IdeaProjects\\IndianCensusAnalyser\\src\\main\\resources\\incorrectSample2.csv";
-    public static final String CSV_FILE_INDIA_STATE_CODE = "C:\\Users\\Nishi\\IdeaProjects\\IndianCensusAnalyser\\src\\main\\resources\\IndiaStateCode";
+    public static final String INCORRECT_CSV_FILE = "C:\\Users\\VINAYAK\\IdeaProjects\\IndianCensusAnalyser\\src\\main\\resources\\incorrectSample2.csv";
+    public static final String CSV_FILE_INDIA_STATE_CODE = "C:\\Users\\VINAYAK\IdeaProjects\\IndianCensusAnalyser\\src\\main\\resources\\IndiaStateCode";
 
     @Test
     public void givenCSVFile_ReturnExactCount() {
