@@ -12,7 +12,7 @@ import java.nio.file.Paths;
 import java.util.Iterator;
 import java.util.stream.StreamSupport;
 
-public class StateCensusAnalyserMain {
+ public class StateCensusAnalyserMain {
     public static void main (String[] args) {
         System.out.println("Indian States Census Analyser Problem");
     }
