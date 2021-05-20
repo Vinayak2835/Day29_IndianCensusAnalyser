@@ -17,4 +17,4 @@ public class IndianCensusAnalyserException extends Exception {
 		this.type = type;
 	}
     
-}
+ }
